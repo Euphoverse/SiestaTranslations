@@ -1,0 +1,2 @@
+base: 'Time in voice channels'
+time_spent: '{} spent **{}** in voice channels!'

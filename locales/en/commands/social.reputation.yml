@@ -1,0 +1,16 @@
+increase: "You increased reputation of **{}**!"
+increaseError: "You can't increase your own reputation!"
+increaseError2: "You already increased reputation of that user!"
+
+lower: "You lowered reputation of **{}**!"
+lowerError: "You can't lower your own reputation!"
+lowerError2: "You already lowered reputation of that user!"
+
+remove: "You have canceled all your actions regarding reputation of **{}**!"
+removeError: "You can't change your own reputation!"
+removeError2: "You haven't change reputation of that user!"
+
+reputation: "Reputation"
+reputation2: "Reputation of **{}**: **{}**"
+
+noRecip: "You didn't specify user that you interact with!"

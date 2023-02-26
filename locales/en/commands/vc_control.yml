@@ -1,0 +1,4 @@
+vcontrol: "VC Control"
+actions: "Actions with voice channel:"
+err: "You have to use command yourself to control VC."
+notInVC: "You are not in VC"

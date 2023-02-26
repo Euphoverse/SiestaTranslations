@@ -1,0 +1,36 @@
+nowPlaying: "Added {} to the queue"
+nodeNotFound: "Nothing is playing on this server :("
+
+play.nothingFound: "Nothing found for that query"
+play.loadFailed: "Couldn't load track. Please try again later ({})"
+play.addedPlaylist.title: "Added tracks to queue"
+play.addedPlaylist.desc: "Added {} tracks to the queue"
+play.searching.title: "Searching..."
+play.searching.desc: "Started search! Usually it doesn't take long."
+
+join.notInVC: "You are not in VC"
+join.joinedVC: "Connected to your VC"
+
+stop.stopped: "Stopped player!"
+stop.error: "Nothing is playing right now!"
+disconnect.success: "Disconnected from VC!"
+
+pause: "Paused!"
+resume: "Resuming :>"
+
+queue: "Queue"
+
+repeat.enable: "✅ Now repeating currently playing track!"
+repeat.disable: "❌ Disabled track repeating!"
+
+shuffle: "Shuffled queue!"
+
+skip: "Skipping..."
+skip.nowPlaying: "Now playing {}"
+skip.nothingisPlaying: "Nothing is playing right now!"
+
+clear: "Clearing..."
+clear.removed: "Removed {} songs from the queue!"
+
+volume: "Changing volume..."
+volume.set: "Set volume to {}%!"

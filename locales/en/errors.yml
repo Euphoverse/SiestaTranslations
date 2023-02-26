@@ -1,0 +1,4 @@
+error: 'Error'
+serverLink: "Link to official server"
+unknownError.1: "Unknown error occurred!"
+unknownError.2: "Info about error has been already sent to [our server](https://discord.gg/gSvt9TpHkG). I recommend you to join out server because in some cases we will need to contact you for solving that error"

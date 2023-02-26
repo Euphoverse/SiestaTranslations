@@ -1,0 +1,5 @@
+noResults.title: "Nothing found"
+noResults.desc: "Searching for %s returned nothing"
+
+results.title: "Found %s results"
+results.desc: "Choose user below"
