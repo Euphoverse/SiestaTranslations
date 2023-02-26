@@ -1,0 +1,5 @@
+play.title: "Add track/playlist to queue"
+play.label: "YT/YTM/Soundcloud URL or search query"
+
+player.title: "Siesta player"
+player.desc: "From that interface you can control your music player. After 2.5 hours you'll need to refresh this UI."
