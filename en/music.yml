@@ -34,3 +34,6 @@ clear.removed: "Removed {} songs from the queue!"
 
 volume: "Changing volume..."
 volume.set: "Set volume to {}%!"
+
+lyricsNotFound.title: "Nothing found"
+lyricsNotFound.desc: "Couldn't find lyrics for {}"
