@@ -1,4 +1,5 @@
-cutsom_id: "Field ID"
-label: "Field name"
-required: "Required? (+/-)"
-continue: "Add another field after that? (+/-)"
+en:
+  cutsom_id: "Field ID"
+  label: "Field name"
+  required: "Required? (+/-)"
+  continue: "Add another field after that? (+/-)"

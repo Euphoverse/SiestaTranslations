@@ -1,11 +1,12 @@
-notLinked.title: "Account not found"
-notLinked.desc: "You haven't linked your osu! account. You can do that using `/osu link`"
-
-success.title: "Account linked"
-success.desc: "You've successfully linked you osu! account. Now you can leave `user` argument empty in command of `/osu` group"
-
-error.title: "Account wasn't linked"
-error.desc: "Go to your osu! account settings and change Discord field. Don't forget that your discord username is case sensitive."
-
-alreadyConnected.title: "Account is already linked"
-alreadyConnected.desc: "You've already linked your osu! account. Siesta can do that automatically from your Discord RPC."
+en:
+  notLinked.title: "Account not found"
+  notLinked.desc: "You haven't linked your osu! account. You can do that using `/osu link`"
+  
+  success.title: "Account linked"
+  success.desc: "You've successfully linked you osu! account. Now you can leave `user` argument empty in command of `/osu` group"
+  
+  error.title: "Account wasn't linked"
+  error.desc: "Go to your osu! account settings and change Discord field. Don't forget that your discord username is case sensitive."
+  
+  alreadyConnected.title: "Account is already linked"
+  alreadyConnected.desc: "You've already linked your osu! account. Siesta can do that automatically from your Discord RPC."

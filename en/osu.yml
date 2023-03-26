@@ -1,8 +1,9 @@
-noResults.title: "Nothing found"
-noResults.desc: "For query {} nothing was found."
-
-results.title: "Found {} results"
-results.desc: "Choose user below."
-
-score_notfound.title: "Nothing found"
-score_notfound.desc: "osu!api returned nothing."
+en:
+  noResults.title: "Nothing found"
+  noResults.desc: "For query {} nothing was found."
+  
+  results.title: "Found {} results"
+  results.desc: "Choose user below."
+  
+  score_notfound.title: "Nothing found"
+  score_notfound.desc: "osu!api returned nothing."

@@ -1,11 +1,12 @@
-error: "Error"
-success: "Success"
-
-noPerm: "You don't have permission to use this command!"
-botError: "You can't use commands on bots!"
-userNotFound: "User not found!"
-
-trackError.title: "Couldn't load track/playlist"
-trackError.desc: "You've entered wrong link or video isn't available: {}"
-
-devFeature: "feature is under development"
+en:
+  error: "Error"
+  success: "Success"
+  
+  noPerm: "You don't have permission to use this command!"
+  botError: "You can't use commands on bots!"
+  userNotFound: "User not found!"
+  
+  trackError.title: "Couldn't load track/playlist"
+  trackError.desc: "You've entered wrong link or video isn't available: {}"
+  
+  devFeature: "feature is under development"

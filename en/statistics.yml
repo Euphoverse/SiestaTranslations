@@ -1,26 +1,27 @@
-main: "Server Statistics"
-actions: "Here you can find server statistics and interesting facts about its members"
-
-ui-messages-1: "Messages"
-ui-messages-2: "Statistics of messages on the server by days"
-messages: "Statistics of messages for all time by days"
-
-ui-members-1: "Member count"
-ui-members-2: "Statistics of number of members by days"
-members: "Statistics on the number of members for all time by days"
-
-ui-online-1: "Online during day"
-ui-online-2: "Statistics of online members by the hour"
-online: "Statistics of average online members by the hour (UTC)"
-
-ui-m-days-1: "Activity peaks"
-ui-m-days-2: "Most active hours by messages"
-m-days: "Most active hours (UTC) by messages"
-
-ui-week-online-1: "Online during week"
-ui-week-online-2: "Average online by day of the week"
-w-online: "Average online by day of the week (UTC)"
-
-ui-games-1: "Games"
-ui-games-2: "The most popular games on the server"
-games: 'List of the 10 most frequently encountered games'
+en:
+  main: "Server Statistics"
+  actions: "Here you can find server statistics and interesting facts about its members"
+  
+  ui-messages-1: "Messages"
+  ui-messages-2: "Statistics of messages on the server by days"
+  messages: "Statistics of messages for all time by days"
+  
+  ui-members-1: "Member count"
+  ui-members-2: "Statistics of number of members by days"
+  members: "Statistics on the number of members for all time by days"
+  
+  ui-online-1: "Online during day"
+  ui-online-2: "Statistics of online members by the hour"
+  online: "Statistics of average online members by the hour (UTC)"
+  
+  ui-m-days-1: "Activity peaks"
+  ui-m-days-2: "Most active hours by messages"
+  m-days: "Most active hours (UTC) by messages"
+  
+  ui-week-online-1: "Online during week"
+  ui-week-online-2: "Average online by day of the week"
+  w-online: "Average online by day of the week (UTC)"
+  
+  ui-games-1: "Games"
+  ui-games-2: "The most popular games on the server"
+  games: 'List of the 10 most frequently encountered games'

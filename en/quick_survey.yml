@@ -1,2 +1,3 @@
-modal.title: "Thank you!"
-modal.desc: "Your response was recorded."
+en:
+  modal.title: "Thank you!"
+  modal.desc: "Your response was recorded."
